@@ -1,5 +1,5 @@
-# spring-rest-api-dynamodb#spring#restapi#dynamodb
-a rest api that retrieves location data using spring for vehicle tracking system
+# spring-rest-api-dynamodb #spring #restapi #dynamodb
+
 Spring Rest API DynamoDB
 This repository contains a Spring REST API that can be used for a vehicle tracking system. The API uses the Spring framework and Amazon DynamoDB database to retrieve location data.
 
